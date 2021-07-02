@@ -1,10 +1,9 @@
 ## Olá, me chamo Jonathan - [Portfólio][website] 👋
 
 
-- 💻 Desenvolvedor Front-end
-- 📓  Aprendendo ReactJS e NodeJS
-- 👯 Buscando Colaborar em projetos Front-end
-- 🧪 Objetivo de 2020: me tornar um desenvolvedor FullStack
+- 💻 Desenvolvedor Back-end
+- 📓 Aprendendo ReactJS e NodeJS
+- 🧪 Objetivo de 2021: me tornar um desenvolvedor FullStack
 
 ### Entre em contato:
 
